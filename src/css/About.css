@@ -1,0 +1,25 @@
+
+.buttony {
+    color:aliceblue;
+    background-color: red;
+    border-radius: 5px;
+    width: 200px;
+    height: 90px;
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.buttony2 {
+    color:aliceblue;
+    background-color: rgb(247, 0, 255);
+    align-items: center;
+    border-radius: 5px;
+    width: 200px;
+    height: 90px;
+    font-size: large;
+}
+
+.buttons{
+    margin-left: 47%;
+    margin-top: 10%;
+}
